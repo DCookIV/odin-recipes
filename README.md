@@ -1,1 +1,2 @@
 # odin-recipes
+This is a project assigned from The Odin Project. The goal is to use what I have learned up to this point and create a basic recipes page using HTML. Making relative links, unorderd/ordered lists and becoming overall familiar while working with text. I'll add my thoughts after the project has been completed!
